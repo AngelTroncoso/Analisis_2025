@@ -1,0 +1,17 @@
+Recuerda que he quitado mis facturas.
+
+Así que al abrir el dashboard te aparecerá con errores.
+
+Una vez ejecutada la parte de Python y creada la base de datos tendrás que conectar PowerBI a ella a través de ODBC.
+
+Y volver a mapear los visuals a tus propios datos.
+
+
+Si no sabes todavía hacer todo esto te recomiendo apuntarte gratis a www.tuprimeraexperiencia.com
+
+Allí durante más de 5 horas tendrás tu primer aprendizaje de Python, SQLite, PowerBI y cómo conectarlos entre sí.
+
+
+Y si te gusta este estilo práctico y realista y luego quieres seguir formándote con nosotros 
+
+al terminar TPE podrás pedir información sobre nuestro programa profesional Data Analytics Mastery.
